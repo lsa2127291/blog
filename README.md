@@ -8,6 +8,7 @@
 #### [模块加载器源码分析之requiresJs篇（一）](https://github.com/lsa2127291/blog/issues/9)
 #### [模块加载器源码分析之requiresJs篇（二）](https://github.com/lsa2127291/blog/issues/10)
 #### [如何优雅地结合Rxjs和WebWorker](https://github.com/lsa2127291/blog/issues/14)
+#### [运用Webassembly的一些心得](https://github.com/lsa2127291/blog/issues/15)
 
 ## 工程实践
 
