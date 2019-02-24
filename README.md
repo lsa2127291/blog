@@ -9,7 +9,7 @@
 #### [模块加载器源码分析之requiresJs篇（二）](https://github.com/lsa2127291/blog/issues/10)
 #### [如何优雅地结合Rxjs和WebWorker](https://github.com/lsa2127291/blog/issues/14)
 #### [运用Webassembly的一些心得](https://github.com/lsa2127291/blog/issues/15)
-#### 使用原生indexedb的好处和一些心得 (https://github.com/lsa2127291/blog/issues/16)
+#### [使用原生indexedb的好处和一些心得](https://github.com/lsa2127291/blog/issues/16)
 
 ## 工程实践
 
